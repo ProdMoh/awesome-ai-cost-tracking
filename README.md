@@ -91,6 +91,7 @@ Charge customers for tokens, credits or outcomes. These meter usage for invoicin
 ## Model prices and price data
 
 - [Anthropic pricing](https://claude.com/pricing) - Official Claude API and plan prices.
+- [APICostCalc](https://apicostcalc.com) - Free calculator comparing per-request and per-token pricing across 400+ APIs, including LLM providers. *(vendor-submitted)*
 - [Artificial Analysis](https://artificialanalysis.ai) - Independent comparison of model quality, price and speed across providers.
 - [LiteLLM model prices](https://github.com/BerriAI/litellm/blob/main/model_prices_and_context_window.json) - Community-maintained JSON of per-token prices for many models, used by several tools above.
 - [OpenAI pricing](https://developers.openai.com/api/docs/pricing) - Official OpenAI API prices.
