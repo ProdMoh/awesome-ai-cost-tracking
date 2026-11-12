@@ -36,6 +36,7 @@ The source data. Everything else in this list builds on these or on request-leve
 Pull provider spend into one place, usually next to cloud costs.
 
 - [CloudZero](https://www.cloudzero.com) - Cloud and AI cost platform that allocates spend to the customers, products and teams it serves.
+- [KeyBark](https://keybark.com/?utm_source=github&utm_medium=listing&utm_campaign=w1&utm_content=ai-cost-tracking-pr) - Reads spend for OpenAI, Anthropic and OpenRouter API keys from each provider's own usage and cost data and emails when a daily or monthly threshold is crossed or spend jumps above its 7-day average; it alerts but doesn't enforce limits.
 - [Vantage](https://www.vantage.sh) - Cloud cost platform with [Anthropic](https://docs.vantage.sh/connecting_anthropic) and [OpenAI](https://docs.vantage.sh/connecting_openai) connectors, including Claude.ai and Codex usage.
 
 ## LLM gateways with spend limits
