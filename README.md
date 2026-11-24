@@ -93,6 +93,7 @@ Charge customers for tokens, credits or outcomes. These meter usage for invoicin
 
 ## Model prices and price data
 
+- [AI tool prices 2026](https://github.com/AZERIA-IT/ai-tool-pricing-2026) - CSV and JSON list prices of 182 plans for 51 AI creative tools, read on each vendor's pricing page on 2026-11-22; promotional prices excluded.
 - [Anthropic pricing](https://claude.com/pricing) - Official Claude API and plan prices.
 - [Artificial Analysis](https://artificialanalysis.ai) - Independent comparison of model quality, price and speed across providers.
 - [CIOQuest LLM Cost Calculator](https://cioquest.com/llm-cost-calculator) - Monthly API cost from requests, tokens, cached-input share and retry share, with dated list prices for OpenAI, Anthropic and Google models.
