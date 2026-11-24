@@ -49,6 +49,7 @@ Proxies that sit between your app and the providers. They see every request, so 
 - [LiteLLM](https://github.com/BerriAI/litellm) - Open-source gateway for 100+ providers with [spend tracking](https://docs.litellm.ai/docs/proxy/cost_tracking) and [budgets](https://docs.litellm.ai/docs/proxy/users) per key, user and team.
 - [OpenRouter](https://openrouter.ai) - Hosted router across many model providers, with credit limits per key and per-request cost.
 - [Portkey](https://github.com/Portkey-AI/gateway) - Open-source gateway; the hosted product adds [budget limits](https://docs.portkey.ai/docs/product/enterprise-offering/budget-limits).
+- [TheRouter](https://therouter.ai/) - Hosted OpenAI-compatible LLM gateway with multi-provider routing, fallback, per-key cost tracking and budget alerts, and team billing. 269+ models across 26 providers.
 
 ## LLM monitoring with cost tracking
 
