@@ -71,6 +71,7 @@ AI coding agents bill per developer seat or per token. These show who used what.
 - [Claude Code monitoring](https://code.claude.com/docs/en/monitoring-usage) - Built-in OpenTelemetry export of per-request cost, tokens and model; point it at any collector.
 - [Codex OpenTelemetry](https://learn.chatgpt.com/docs/config-file/config-advanced) - Codex's `[otel]` config for exporting per-request usage events.
 - [Ganivra](https://ganivra.com/ai-coding-cost-tracking) - Hosted Claude Code and Codex cost by developer, team, project and client from their OpenTelemetry exports, with chargeback CSV. Prompts and code are not collected. No Cursor support yet.
+- [Lake Meter](https://github.com/getlake/lake-meter) - MIT npm package that estimates a cost range and a model for each step of a Claude Code plan, prices a run from the session transcript, and stops to ask when a run passes a dollar or token cap. Claude Code only, local with no telemetry, no per-developer or team reporting.
 
 ## AI gross margin and cost per customer
 
